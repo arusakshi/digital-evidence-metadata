@@ -1,0 +1,3 @@
+Digital Evidence Metadata Extractor
+Sample file for authorized forensic-analysis practice.
+Do not use this file as real evidence.
